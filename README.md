@@ -61,3 +61,6 @@ Relax Zone Stress QBCORE or ESX
 - [qb-core](https://github.com/qbcore-framework/qb-core) -- if using qbcore
 - [esx](https://github.com/esx-framework/esx_core) -- if using esx
 - [ox_lib](https://github.com/overextended/ox_lib)
+
+# Github Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=naufalmulyarizki/naufal-relaxzone&type=Date)](https://star-history.com/#naufalmulyarizki/naufal-relaxzone&Date)
